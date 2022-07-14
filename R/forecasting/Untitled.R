@@ -101,4 +101,3 @@ sf.test(fit5$residuals)
 forecasting <- forecast(loga,model = fit3, h =12)
 forecasting
 plot(forecasting)
-
